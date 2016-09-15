@@ -7,3 +7,5 @@
  */
 
 echo "first use";
+
+echo "second use";
